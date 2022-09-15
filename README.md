@@ -1,2 +1,2 @@
 # Impossible-Homage
-Clone of the game 'Impossible Mission' (by Epix).
+Clone of the game 'Impossible Mission' (by Epyx).
